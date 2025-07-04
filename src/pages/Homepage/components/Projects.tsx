@@ -85,7 +85,7 @@ export default function ProjectCarousel() {
 
                 {/* Text Section */}
                 <div className="text-white max-w-lg text-center lg:text-left">
-                  <h3 className="text-3xl font-bold mb-2">{project.title}</h3>
+                  <h3 className="text-3xl font-bold mb-2">{project.title}</h3><a href="https://efficiensee-p80v.onrender.com/" target="_blank" className="text-blue-500">EfficienSee Project Link</a>
                   <p> <span className="font-bold text-white text-1xl">TechStack:</span> <span className="text-white italic text-1xl">{project.Tech}</span></p>
                   <p className="hidden md:block text-blue-100">{project.description}</p>
                   <p className="md:hidden text-blue-100">{project.alttext}</p>

@@ -7,6 +7,7 @@ const ProjectsData = [
     background: "/efficiensee.png",
     videoThumbnail: "/EfficienSee.mp4",
     alttext: "An AI-powered Employee Productivity Monitoring System for Manager and Employees.",
+    link: "https://efficiensee-p80v.onrender.com/",
   },
   {
     id: 2,
