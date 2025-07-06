@@ -14,7 +14,7 @@ function Contacts(){
             <p className="text-blue-900"><span className="font-bold gap-2 text-black">Email:</span> <a href="uday.dandekar.dev@gmail.com" target="_blank">uday.dandekar.dev@gmail.com</a></p>
             <p className="text-blue-900"><span className="font-bold text-black">Github: </span> <a href="https://github.com/BHISHMA108" target="_blank">https://github.com/BHISHMA108</a></p>
             <p className="text-blue-900"><span className="font-bold text-black">LinkedIn: </span> <a href="https://www.linkedin.com/in/uday-dandekar/" target="_blank">https://www.linkedin.com/in/uday-dandekar/</a></p>
-            <p className="text-blue-900"><span className="font-bold text-black">Portfolio: </span> <a href="https://udaydandekar.github.io/Portfolio/" target="_blank">https://udaydandekar.github.io/Portfolio/</a></p>
+            <p className="text-blue-900"><span className="font-bold text-black">Portfolio: </span> <a href="https://portfolio-liyw.onrender.com/" target="_blank">https://udaydandekar.github.io/Portfolio/</a></p>
             </div>
             
             
