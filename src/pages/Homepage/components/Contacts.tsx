@@ -3,10 +3,6 @@ import { useState } from "react";
 function Contacts(){
     const [Heart , setHeart] = useState(true);
 
-    const handleHeartHover = ()=>{
-        setHeart(true);
-    }
-
     return(
         <div 
         id="contacts"
