@@ -1,8 +1,9 @@
 import {Canvas} from "@react-three/fiber"
 import { OrbitControls, useGLTF } from '@react-three/drei';
+import { Suspense , lazy } from "react";
 
 function Model(){
-    const {scene} = useGLTF("/scene.gltf")
+    const {scene} = useGLTF("https://res.cloudinary.com/dst3yuj1w/image/upload/v1751904972/scene-draco_gmufjg.glb")
     return <primitive object={scene} scale={0.02} />;
 } 
 

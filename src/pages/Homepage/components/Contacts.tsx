@@ -6,7 +6,7 @@ function Contacts(){
     return(
         <div 
         id="contacts"
-        className="flex flex-col justify-between py-[50px] w-full sm:h-[412px]  md:h-[391px]  bg-cover " style={{ backgroundImage: `url('/footer4.jpg')`, objectFit:"cover" }}>
+        className="flex flex-col justify-between py-[50px] w-full sm:h-[412px]  md:h-[391px]  bg-cover " style={{ backgroundImage: `url('https://res.cloudinary.com/dst3yuj1w/image/upload/v1751904945/footer4_acmifn.jpg')`, objectFit:"cover" }}>
             <h1 className="text-6xl font-bold mb-[20px] text-black relative mx-[100px]">
                 Contacts
             </h1>
