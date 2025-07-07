@@ -1,6 +1,6 @@
 function HeroSection() {
     return (
-        <div className="relative hidden lg:flex justify-between items-center px-16 py-2 h-[41px] rounded-3xl mx-[60px] mt-[20px] relative z-10 font-normal text-[16px] font-bold text-black" style={{backgroundImage: `url("/backgi.jpg")`}}>
+        <div className="relative hidden lg:flex justify-between items-center px-16 py-2 h-[41px] rounded-3xl mx-[60px] mt-[20px] relative z-10 font-normal text-[16px] font-bold text-black bg-white" style={{backgroundImage: `url("/backgi.jpg")`}}>
             {/* <video src="public/backg2.mp4" loop muted autoPlay playsInline className="absolute w-full h-full object-cover left-0 top-0 rounded-3xl z-[-2] "></video>
             <div className="absolute inset-0 bg-black/20 rounded-3xl z-[-1]"></div> */}
 
