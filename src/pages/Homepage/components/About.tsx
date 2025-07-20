@@ -10,7 +10,7 @@ function About(){
             <p className="text-[21px] text-white">
 Hi, I’m Uday Dandekar, a frontend developer and engineering student at VIT Pune, specializing in React.js, Tailwind CSS, and modern web development. I enjoy building clean, responsive interfaces and exploring AI and 3D web technologies like Three.js and React Three Fiber.
 
-Currently, I’m working at Herbs Magic and contributing to projects like Gyansetu and EfficienSee, blending tech with purpose. I'm always eager to learn, create, and solve real-world problems through code.            </p>
+Currently, I’m working at Herbs Magic as Frontend Intern and contributing to projects like Gyansetu and EfficienSee, blending tech with purpose. I'm always eager to learn, create, and solve real-world problems through code.            </p>
             </div>
         </div>
     )

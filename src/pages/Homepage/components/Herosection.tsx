@@ -23,7 +23,7 @@ function HeroSection() {
                 CONTACTS
             </p>
             <p className="hidden md:block font-bold">
-                <a href="https://drive.google.com/file/d/11C7RqmNTgDk437dxdqj9sZGqGxDPJo1U/view?usp=sharing" target="_blank">RESUME</a>
+                <a href="https://drive.google.com/file/d/175wYmn3L8dBjge7GcaRKNVKb4cWy8FA5/view?usp=sharing" target="_blank">RESUME</a>
             </p>
         </div>
     );

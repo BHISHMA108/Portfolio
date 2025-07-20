@@ -103,7 +103,7 @@ export default function ProjectCarousel() {
                     rel="noreferrer"
                     className="text-blue-500 underline"
                   >
-                    EfficienSee Project Link
+                    <p className="font-bold italic">Live Demo</p>
                   </a>
                   <p>
                     <span className="font-bold">TechStack:</span>{" "}

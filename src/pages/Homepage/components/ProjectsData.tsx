@@ -17,6 +17,7 @@ const ProjectsData = [
     background: "https://res.cloudinary.com/dst3yuj1w/image/upload/v1751904949/gyansetu_frdeok.png",
     videoThumbnail: "https://res.cloudinary.com/dst3yuj1w/video/upload/v1751904998/gyansetu_up_lfueun.webm",
     alttext: "Gyansetu is a web platform that helps users explore key teachings, books, devotional music, and stories from Hinduism, Sikhism, Islam, and Christianity.",
+    link: "https://gyansetu-p90v.onrender.com/",
   },
   // {
   //   id: 3,
